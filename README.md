@@ -1,4 +1,4 @@
-# Identifying Record Producers from Audio Data**
+# Identifying Record Producers from Audio Data
 
 
 ## Table of Contents

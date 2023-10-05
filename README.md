@@ -59,7 +59,7 @@ The data were then plotted on a 2D [t-SNE](https://en.wikipedia.org/wiki/T-distr
 
 <img src="images/tsne.png" align="center" />
 
-An interactive t-SNE plot can be found [here](https://plot.ly/~maxwellfisch/22/t-sne-plot-of-tracks/#/).
+An interactive t-SNE plot can be found [here](https://plot.ly/~vvargas1785/t-sne-plot-of-tracks/#/).
 
 ## Future Improvements
 * Deconvolution of Variables:
